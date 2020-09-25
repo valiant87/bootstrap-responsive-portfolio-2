@@ -53,9 +53,10 @@ ___
 
 * valnimirenco@gmail.com
 * [Val Nimirenco](https://github.com/valiant87)
-* [Current Repository](https://valiant87.github.io/bootstrap-responsive-portfolio/index.html)
+* [Current Repository](https://github.com/valiant87/bootstrap-responsive-portfolio-2)
+* [Website](https://valiant87.github.io/bootstrap-responsive-portfolio-2/)
 ---
-######Licences: **_none_**
+#### Licences: **_none_**
 
 
 
